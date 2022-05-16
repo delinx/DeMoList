@@ -40,6 +40,8 @@ License
 ======
 ::
 
+	MIT License
+
 	DML - DeMoList
 
 	Copyright © 2022 Mihails 'Delinx' Mozajevs
