@@ -1,5 +1,5 @@
 ===============
-DML - DeMoLister
+DML - DeMoList
 ===============
 
 Information
@@ -26,15 +26,13 @@ Modules
 
 Notice
 -----------
-The goal is to write most of this project using C, this is a learning project for me and something I could actually use in day to day. I fully acknowledge this can be more easily accomplished using existing Go or JS demo parser with simple web interface on top and FTP module.
+The goal is to write most of this project using C, this is a learning project for me and something I could actually use in day to day. I fully acknowledge this can be completed more easily using existing tools/libs. 
 
 Tools you could use to accomplish this: 
 
 * (Node)   https://github.com/saul/demofile
 * (Go)     https://github.com/markus-wa/demoinfocs-golang
-* (Python) https://github.com/pnxenopoulos/awpy
-
-So please no "Why are you not using X instead", make your own project. 
+* my pic (Go lib wrapped with Python, ew I know, but learning Protobuf is too much for me right now, will revisit later)-> (Python) https://github.com/pnxenopoulos/awpy
 
 License
 ======
