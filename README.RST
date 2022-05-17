@@ -32,7 +32,7 @@ Tools you could use to accomplish this:
 
 * (Node)   https://github.com/saul/demofile
 * (Go)     https://github.com/markus-wa/demoinfocs-golang
-* my pic (Go lib wrapped with Python, ewww, but learning Protobuf is too much for me right now, will revisit later)-> (Python) https://github.com/pnxenopoulos/awpy
+* my pic (Go lib wrapped with Python, ew I know, but learning Protobuf is too much for me right now, will revisit later)-> (Python) https://github.com/pnxenopoulos/awpy
 
 License
 ======
