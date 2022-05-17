@@ -24,7 +24,7 @@
 #include <stdio.h>
 
 #define ONE_BYTE 1
-
+	
 typedef struct S_DemoHeader
 {
 	char header[8];
@@ -125,13 +125,13 @@ void printDemoHeader(DemoHeader *dh)
 	printf("Demo Ticks: %d\n", dh->ticks);
 	printf("Demo Frames: %d\n", dh->frames);
 	printf("Demo Sign on length: %d\n", dh->signOnLenght);
-
 }
 
 int main()
 {   
 	DemoHeader dh = readDemoHeader("F:\\Projects\\DML-DeMoList\\demo\\auto0-20220508-182807-1705382547-de_nuke-Opta-Allyance_CKRAS.dem");
 	printDemoHeader(&dh);
+	
 
 	return 0;
 }
